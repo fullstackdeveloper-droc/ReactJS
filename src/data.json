@@ -1,0 +1,631 @@
+{
+    "CustomerInfo": [
+        {
+            "id": 1,
+            "name": "Elgin Baylor",
+            "purchases": [
+                {
+                    "total": 90,
+                    "purchaseDate": "2020-01-02"
+                },
+                {
+                    "total": 190,
+                    "purchaseDate": "2020-01-03"
+                },
+                {
+                    "total": 160,
+                    "purchaseDate": "2020-01-04"
+                },
+                {
+                    "total": 78,
+                    "purchaseDate": "2020-01-05"
+                },
+                {
+                    "total": 278,
+                    "purchaseDate": "2020-01-11"
+                },
+                {
+                    "total": 85,
+                    "purchaseDate": "2020-01-12"
+                },
+                {
+                    "total": 98,
+                    "purchaseDate": "2020-01-14"
+                },
+                {
+                    "total": 190,
+                    "purchaseDate": "2020-01-15"
+                },
+                {
+                    "total": 450,
+                    "purchaseDate": "2020-02-01"
+                },
+                {
+                    "total": 490,
+                    "purchaseDate": "2020-02-05"
+                },
+                {
+                    "total": 175,
+                    "purchaseDate": "2020-02-11"
+                },
+                {
+                    "total": 300,
+                    "purchaseDate": "2020-02-12"
+                },
+                {
+                    "total": 290,
+                    "purchaseDate": "2020-03-02"
+                },
+                {
+                    "total": 550,
+                    "purchaseDate": "2020-03-03"
+                },
+                {
+                    "total": 200,
+                    "purchaseDate": "2020-03-05"
+                },
+                {
+                    "total": 138,
+                    "purchaseDate": "2020-03-11"
+                },
+                {
+                    "total": 420,
+                    "purchaseDate": "2020-03-15"
+                },
+                {
+                    "total": 520,
+                    "purchaseDate": "2020-03-16"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "AC Green",
+            "purchases": [
+                {
+                    "total": 120,
+                    "purchaseDate": "2020-01-09"
+                },
+                {
+                    "total": 130,
+                    "purchaseDate": "2020-01-10"
+                },
+                {
+                    "total": 120,
+                    "purchaseDate": "2020-01-12"
+                },
+                {
+                    "total": 290,
+                    "purchaseDate": "2020-02-02"
+                },
+                {
+                    "total": 670,
+                    "purchaseDate": "2020-02-05"
+                },
+                {
+                    "total": 392,
+                    "purchaseDate": "2020-02-11"
+                },
+                {
+                    "total": 187,
+                    "purchaseDate": "2020-02-21"
+                },
+                {
+                    "total": 190,
+                    "purchaseDate": "2020-03-03"
+                },
+                {
+                    "total": 290,
+                    "purchaseDate": "2020-03-18"
+                },
+                {
+                    "total": 190,
+                    "purchaseDate": "2020-03-19"
+                },
+                {
+                    "total": 345,
+                    "purchaseDate": "2020-03-20"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Clyde Drexler",
+            "purchases": [
+                {
+                    "total": 235,
+                    "purchaseDate": "2020-01-07"
+                },
+                {
+                    "total": 195,
+                    "purchaseDate": "2020-01-12"
+                },
+                {
+                    "total": 195,
+                    "purchaseDate": "2020-01-12"
+                },
+                {
+                    "total": 195,
+                    "purchaseDate": "2020-01-12"
+                },
+                {
+                    "total": 45,
+                    "purchaseDate": "2020-01-14"
+                },
+                {
+                    "total": 145,
+                    "purchaseDate": "2020-01-21"
+                },
+                {
+                    "total": 845,
+                    "purchaseDate": "2020-02-11"
+                },
+                {
+                    "total": 70,
+                    "purchaseDate": "2020-02-11"
+                },
+                {
+                    "total": 49,
+                    "purchaseDate": "2020-03-01"
+                },
+                {
+                    "total": 95,
+                    "purchaseDate": "2020-03-11"
+                },
+                {
+                    "total": 490,
+                    "purchaseDate": "2020-03-21"
+                },
+                {
+                    "total": 330,
+                    "purchaseDate": "2020-03-26"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Joe Dumars",
+            "purchases": [
+                {
+                    "total": 50,
+                    "purchaseDate": "2020-01-05"
+                },
+                {
+                    "total": 180,
+                    "purchaseDate": "2020-01-12"
+                },
+                {
+                    "total": 430,
+                    "purchaseDate": "2020-01-23"
+                },
+                {
+                    "total": 230,
+                    "purchaseDate": "2020-01-24"
+                },
+                {
+                    "total": 30,
+                    "purchaseDate": "2020-01-25"
+                },
+                {
+                    "total": 120,
+                    "purchaseDate": "2020-02-11"
+                },
+                {
+                    "total": 470,
+                    "purchaseDate": "2020-02-12"
+                },
+                {
+                    "total": 420,
+                    "purchaseDate": "2020-02-19"
+                },
+                {
+                    "total": 26,
+                    "purchaseDate": "2020-02-21"
+                },
+                {
+                    "total": 60,
+                    "purchaseDate": "2020-03-10"
+                },
+                {
+                    "total": 350,
+                    "purchaseDate": "2020-03-12"
+                },
+                {
+                    "total": 100,
+                    "purchaseDate": "2020-03-16"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Jerry West",
+            "purchases": [
+                {
+                    "total": 490,
+                    "purchaseDate": "2020-01-02"
+                },
+                {
+                    "total": 190,
+                    "purchaseDate": "2020-01-03"
+                },
+                {
+                    "total": 60,
+                    "purchaseDate": "2020-01-04"
+                },
+                {
+                    "total": 75,
+                    "purchaseDate": "2020-01-05"
+                },
+                {
+                    "total": 55,
+                    "purchaseDate": "2020-01-11"
+                },
+                {
+                    "total": 85,
+                    "purchaseDate": "2020-01-12"
+                },
+                {
+                    "total": 45,
+                    "purchaseDate": "2020-01-14"
+                },
+                {
+                    "total": 45,
+                    "purchaseDate": "2020-01-15"
+                },
+                {
+                    "total": 450,
+                    "purchaseDate": "2020-02-01"
+                },
+                {
+                    "total": 453,
+                    "purchaseDate": "2020-02-05"
+                },
+                {
+                    "total": 53,
+                    "purchaseDate": "2020-02-11"
+                },
+                {
+                    "total": 39,
+                    "purchaseDate": "2020-02-12"
+                },
+                {
+                    "total": 90,
+                    "purchaseDate": "2020-03-02"
+                },
+                {
+                    "total": 50,
+                    "purchaseDate": "2020-03-03"
+                },
+                {
+                    "total": 599,
+                    "purchaseDate": "2020-03-05"
+                },
+                {
+                    "total": 188,
+                    "purchaseDate": "2020-03-11"
+                },
+                {
+                    "total": 820,
+                    "purchaseDate": "2020-03-15"
+                },
+                {
+                    "total": 20,
+                    "purchaseDate": "2020-03-16"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Robert Parrish",
+            "purchases": [
+                {
+                    "total": 80,
+                    "purchaseDate": "2020-01-02"
+                },
+                {
+                    "total": 80,
+                    "purchaseDate": "2020-01-03"
+                },
+                {
+                    "total": 860,
+                    "purchaseDate": "2020-01-04"
+                },
+                {
+                    "total": 65,
+                    "purchaseDate": "2020-01-05"
+                },
+                {
+                    "total": 78,
+                    "purchaseDate": "2020-01-11"
+                },
+                {
+                    "total": 185,
+                    "purchaseDate": "2020-01-12"
+                },
+                {
+                    "total": 68,
+                    "purchaseDate": "2020-01-14"
+                },
+                {
+                    "total": 52,
+                    "purchaseDate": "2020-01-15"
+                },
+                {
+                    "total": 29,
+                    "purchaseDate": "2020-02-01"
+                },
+                {
+                    "total": 155,
+                    "purchaseDate": "2020-02-05"
+                },
+                {
+                    "total": 375,
+                    "purchaseDate": "2020-02-11"
+                },
+                {
+                    "total": 350,
+                    "purchaseDate": "2020-02-12"
+                },
+                {
+                    "total": 290,
+                    "purchaseDate": "2020-02-14"
+                },
+                {
+                    "total": 510,
+                    "purchaseDate": "2020-02-15"
+                },
+                {
+                    "total": 200,
+                    "purchaseDate": "2020-02-16"
+                },
+                {
+                    "total": 138,
+                    "purchaseDate": "2020-02-18"
+                },
+                {
+                    "total": 420,
+                    "purchaseDate": "2020-02-19"
+                },
+                {
+                    "total": 520,
+                    "purchaseDate": "2020-03-16"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Bob Cousy",
+            "purchases": [
+                {
+                    "total": 340,
+                    "purchaseDate": "2020-01-02"
+                },
+                {
+                    "total": 240,
+                    "purchaseDate": "2020-01-03"
+                },
+                {
+                    "total": 190,
+                    "purchaseDate": "2020-01-04"
+                },
+                {
+                    "total": 178,
+                    "purchaseDate": "2020-01-05"
+                },
+                {
+                    "total": 78,
+                    "purchaseDate": "2020-01-11"
+                },
+                {
+                    "total": 185,
+                    "purchaseDate": "2020-01-12"
+                },
+                {
+                    "total": 198,
+                    "purchaseDate": "2020-01-14"
+                },
+                {
+                    "total": 200,
+                    "purchaseDate": "2020-01-15"
+                },
+                {
+                    "total": 350,
+                    "purchaseDate": "2020-02-01"
+                },
+                {
+                    "total": 390,
+                    "purchaseDate": "2020-02-05"
+                },
+                {
+                    "total": 275,
+                    "purchaseDate": "2020-02-11"
+                },
+                {
+                    "total": 200,
+                    "purchaseDate": "2020-02-12"
+                },
+                {
+                    "total": 290,
+                    "purchaseDate": "2020-03-02"
+                },
+                {
+                    "total": 550,
+                    "purchaseDate": "2020-03-03"
+                },
+                {
+                    "total": 200,
+                    "purchaseDate": "2020-03-05"
+                },
+                {
+                    "total": 138,
+                    "purchaseDate": "2020-03-11",
+                    "location": "New York, USA"
+                },
+                {
+                    "total": 420,
+                    "purchaseDate": "2020-03-15"
+                },
+                {
+                    "total": 520,
+                    "purchaseDate": "2020-03-16"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": " Tim Hardaway",
+            "purchases": [
+                {
+                    "total": 290,
+                    "purchaseDate": "2020-01-02"
+                },
+                {
+                    "total": 190,
+                    "purchaseDate": "2020-01-03"
+                },
+                {
+                    "total": 130,
+                    "purchaseDate": "2020-01-04"
+                },
+                {
+                    "total": 98,
+                    "purchaseDate": "2020-01-05"
+                },
+                {
+                    "total": 298,
+                    "purchaseDate": "2020-01-11"
+                },
+                {
+                    "total": 75,
+                    "purchaseDate": "2020-01-12"
+                },
+                {
+                    "total": 298,
+                    "purchaseDate": "2020-01-14"
+                },
+                {
+                    "total": 170,
+                    "purchaseDate": "2020-01-15"
+                },
+                {
+                    "total": 410,
+                    "purchaseDate": "2020-02-01"
+                },
+                {
+                    "total": 390,
+                    "purchaseDate": "2020-02-05"
+                },
+                {
+                    "total": 175,
+                    "purchaseDate": "2020-02-11"
+                },
+                {
+                    "total": 300,
+                    "purchaseDate": "2020-02-12"
+                },
+                {
+                    "total": 290,
+                    "purchaseDate": "2020-03-02"
+                },
+                {
+                    "total": 550,
+                    "purchaseDate": "2020-03-03"
+                },
+                {
+                    "total": 200,
+                    "purchaseDate": "2020-03-05"
+                },
+                {
+                    "total": 138,
+                    "purchaseDate": "2020-03-11"
+                },
+                {
+                    "total": 420,
+                    "purchaseDate": "2020-03-15"
+                },
+                {
+                    "total": 520,
+                    "purchaseDate": "2020-03-16"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "John Stockton",
+            "purchases": [
+                {
+                    "total": 590,
+                    "purchaseDate": "2020-01-04"
+                },
+                {
+                    "total": 190,
+                    "purchaseDate": "2020-01-05"
+                },
+                {
+                    "total": 60,
+                    "purchaseDate": "2020-01-06"
+                },
+                {
+                    "total": 178,
+                    "purchaseDate": "2020-01-07"
+                },
+                {
+                    "total": 228,
+                    "purchaseDate": "2020-01-11"
+                },
+                {
+                    "total": 85,
+                    "purchaseDate": "2020-02-12"
+                },
+                {
+                    "total": 98,
+                    "purchaseDate": "2020-02-14"
+                },
+                {
+                    "total": 190,
+                    "purchaseDate": "2020-02-15"
+                },
+                {
+                    "total": 450,
+                    "purchaseDate": "2020-02-22"
+                },
+                {
+                    "total": 490,
+                    "purchaseDate": "2020-03-05"
+                },
+                {
+                    "total": 175,
+                    "purchaseDate": "2020-03-11"
+                },
+                {
+                    "total": 300,
+                    "purchaseDate": "2020-02-12"
+                },
+                {
+                    "total": 290,
+                    "purchaseDate": "2020-03-09"
+                },
+                {
+                    "total": 550,
+                    "purchaseDate": "2020-03-13"
+                },
+                {
+                    "total": 200,
+                    "purchaseDate": "2020-03-15"
+                },
+                {
+                    "total": 138,
+                    "purchaseDate": "2020-03-17"
+                },
+                {
+                    "total": 420,
+                    "purchaseDate": "2020-03-18"
+                },
+                {
+                    "total": 520,
+                    "purchaseDate": "2020-03-19"
+                }
+            ]
+        }
+    ]
+}
