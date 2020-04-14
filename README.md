@@ -1,2 +1,2 @@
 # ReactJS
-ReactJS projects
+ReactJS projects - Small coding exercises workspace area
